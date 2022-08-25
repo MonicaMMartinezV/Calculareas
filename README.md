@@ -1,4 +1,4 @@
-# Proyecto-integrador
+# Calculareas
 
 ## Contexto y porque creo que es interesante
 
