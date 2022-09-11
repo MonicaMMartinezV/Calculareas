@@ -24,6 +24,10 @@ Entradas
 - Datos requeridos para área de romboide 
 - Datos requeridos para área de trapecio 
 - Datos requeridos para área de polígonos regulares	
+- Número al que quieres saber sus divisores sin residuos
+- Cantidad de números pares que quieres
+- Números que se sumaran o restaran y un igual(0)
+- Tu nombre, si es o no tu cumpleaños y cuantos años cumples
 
 Proceso
 
@@ -61,7 +65,31 @@ Proceso
   - Pedir datos para calcular el área de un polígonos regulares
   - Calcular el área por medio de su fórmula
   - Imprimir el resultado
-- Agradecer y escribir nombre
+- Si divisores sin residuos de un número 
+  - Pedir el número que quieres saber los divisores sin residuo
+  - Por medio del for calcular los números que tengan residuo 0 al dividirlos con el número         otorgado 
+  - Imprimir todos lo números que cumplieron con la condición 
+- Si números pares
+  - Pedir la cantidad de números pares requeridos
+  - Verificar por medio de un contador y condicionales si el número al dividirlo entre 2 su         residuo es 0
+  - Imprimir todos los números que cumplan con la condición
+- Si suma y resta
+  - Decir que cuando quiera el resultado ingrese 0
+  - Pedir repetidamente, a traves de un while, los números que desea sumar y restar 
+  - Sumar y restarlos
+  - Imprimir el resultado
+- Si felicitaciones
+  - Pedir su nombre y saludarlo
+  - Pedir si es o no su cumpleaños
+    - Si es tu cumpleaños
+      - Pedir los años que vas a cumplir
+      - Imprimir una felicitación personalizada con los datos que se pidieron 
+    - Si no es tu cumpleaños 
+      - Mandar a menú
+- Si casos de prueba
+  - Imprimir las instrucciones 
+  - Pedir los datos requeridos 
+- Agradecer
 
 Salidas
 
@@ -73,4 +101,9 @@ Salidas
 - Resultado área del romboide
 - Resultado área del trapecio
 - Resultado área del triángulo polígonos regulares 
+- Divisores sin residuo del número que se introdujo
+- Los números pares que se pidieron
+- Resultado de las sumas y restas
+- Una felicitación por parte de "Calculareas"
+
 
