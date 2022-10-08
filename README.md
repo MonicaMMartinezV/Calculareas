@@ -28,6 +28,10 @@ Entradas
 - Cantidad de números pares que quieres
 - Números que se sumaran o restaran y un igual(0)
 - Tu nombre, si es o no tu cumpleaños y cuantos años cumples
+- Tamaño de la lista y valores dentro de esta 
+- La lista generada anteriormente
+- Número de conjuntos y cuaántos valores tendra cada conjunto, para la matriz
+- La matriz generada anteriormente 
 
 Proceso
 
@@ -86,6 +90,20 @@ Proceso
       - Imprimir una felicitación personalizada con los datos que se pidieron 
     - Si no es tu cumpleaños 
       - Mandar a menú
+- Si media
+  - Pedir tamaño lista 
+  - Pedir valores de la lista 
+  - Crear la lista 
+  - Pedir lista anterior y sacar media sumando todo y dividiendolo por el número total de           valores
+  - Imprimir media 
+- Si moda 
+  - Pedir número de conjuntos y número de valores dentro de conjuntos
+  - Pedir valores de matriz
+  - Crear la matriz 
+  - Pedir la matriz
+    - Aplano la matriz
+    - Por medio de una función de statistics de mode saco la moda 
+    - Imprimir moda
 - Si casos de prueba
   - Imprimir las instrucciones 
   - Pedir los datos requeridos 
@@ -105,5 +123,9 @@ Salidas
 - Los números pares que se pidieron
 - Resultado de las sumas y restas
 - Una felicitación por parte de "Calculareas"
+- La media de una lista creada por el usuario 
+- La moda de una matriz creada por el usuario 
+- Los resultados de las ejecuciones de todas las funciones 
+
 
 
