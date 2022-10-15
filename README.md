@@ -15,35 +15,35 @@ El algoritmo de este proyecto sería el siguiente:
 
 Entradas
 
--- Opción de función requerida 
--- Datos requeridos para área de triangulo 
--- Datos requeridos para área de circulo 
--- Datos requeridos para área de rectángulo 
--- Datos requeridos para área de rombo 
---> Datos requeridos para área de cuadrado
---> Datos requeridos para área de romboide 
---> Datos requeridos para área de trapecio 
---> Datos requeridos para área de polígonos regulares	
---> Número al que quieres saber sus divisores sin residuos
---> Cantidad de números pares que quieres
---> Números que se sumaran o restaran y un igual(0)
---> Tu nombre, si es o no tu cumpleaños y cuantos años cumples
---> Tamaño de la lista y valores dentro de esta 
---> La lista generada anteriormente
---> Número de conjuntos y cuaántos valores tendra cada conjunto para la matriz
---> La matriz generada anteriormente 
+- Opción de función requerida 
+- Datos requeridos para área de triangulo 
+- Datos requeridos para área de circulo 
+- Datos requeridos para área de rectángulo 
+- Datos requeridos para área de rombo 
+- Datos requeridos para área de cuadrado
+- Datos requeridos para área de romboide 
+- Datos requeridos para área de trapecio 
+- Datos requeridos para área de polígonos regulares	
+- Número al que quieres saber sus divisores sin residuos
+- Cantidad de números pares que quieres
+- Números que se sumaran o restaran y un igual(0)
+- Tu nombre, si es o no tu cumpleaños y cuantos años cumples
+- Tamaño de la lista y valores dentro de esta 
+- La lista generada anteriormente
+- Número de conjuntos y cuaántos valores tendra cada conjunto para la matriz
+- La matriz generada anteriormente 
 
 Proceso
 
---> Pedir opción del menú requerida 
---> Si área triangulo 
-    * Pedir datos para calcular el área de un triangulo 
-    * Calcular el área por medio de su fórmula
-    * Imprimir el resultado
--->	Si área circulo  
-    * Pedir datos para calcular el área de un circulo  
-    * Calcular el área por medio de su fórmula
-    * Imprimir el resultado
+- Pedir opción del menú requerida 
+- Si área triangulo 
+  * Pedir datos para calcular el área de un triangulo 
+  * Calcular el área por medio de su fórmula
+  * Imprimir el resultado
+-	Si área circulo  
+  * Pedir datos para calcular el área de un circulo  
+  * Calcular el área por medio de su fórmula
+  * Imprimir el resultado
 --> Si área rectángulo
     * Pedir datos para calcular el área de un rectángulo
     * Calcular el área por medio de su fórmula
