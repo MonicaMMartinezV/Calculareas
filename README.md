@@ -15,11 +15,11 @@ El algoritmo de este proyecto sería el siguiente:
 
 Entradas
 
---> Opción de función requerida 
---> Datos requeridos para área de triangulo 
---> Datos requeridos para área de circulo 
---> Datos requeridos para área de rectángulo 
---> Datos requeridos para área de rombo 
+-- Opción de función requerida 
+-- Datos requeridos para área de triangulo 
+-- Datos requeridos para área de circulo 
+-- Datos requeridos para área de rectángulo 
+-- Datos requeridos para área de rombo 
 --> Datos requeridos para área de cuadrado
 --> Datos requeridos para área de romboide 
 --> Datos requeridos para área de trapecio 
