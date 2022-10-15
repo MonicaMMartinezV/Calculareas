@@ -128,5 +128,11 @@ Salidas
 - La moda de una matriz creada por el usuario 
 - Los resultados de las ejecuciones de todas las funciones 
 
+# Instrucciones
+Descargar el archivo y correr en terminal con:
 
+o abrir en Thonny y dar boton de play.
+
+Se deben de responder a las preguntas y elegir opcines que aparecen en el programa, además de contestar lo que se pide en cada sección. Podras acceder a tu historial de esa ejecución. En el momento en que se detenga el programa se creará el nuevo historial. 
+Este programa tiene instrucciones claras de cada función, esto permitirá que no sea dificl su ejecucuión. No usa bibliotecas que se necesitan descargar, solo se usan las predeterminadas de python. 
 
